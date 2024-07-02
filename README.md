@@ -4,10 +4,12 @@
 
 #### Tecnologias 💻:
 - java SE 8 U 202
+  ```
   - Programación Orientada a Objetos
   - Uso de patrón de diseño DAO (Data Access Object)
   - Interfaz con Java Swing
-  ```
+
+
 
 ### API REST:
 [![Exchange Rates Data API](https://www.exchangerate-api.com/favicon-32x32.png)](https://www.exchangerate-api.com)
