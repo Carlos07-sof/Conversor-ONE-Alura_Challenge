@@ -14,4 +14,4 @@
 [![Exchange Rates Data API](https://www.exchangerate-api.com/favicon-32x32.png)](https://www.exchangerate-api.com)
 
 ### Librerías 📖:
-(https://img.shields.io/github/tag/pandao/editor.md.svg) ![]
+![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![]
