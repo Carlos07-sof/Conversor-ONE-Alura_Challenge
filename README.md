@@ -14,5 +14,5 @@
 [![Exchange Rates Data API](https://www.exchangerate-api.com/favicon-32x32.png)](https://www.exchangerate-api.com)
 
 ### Librerías 📖:
-![JAR](https://www.formdev.com/flatlaf/) 
-![]
+- [flatlaf.demo.3.4.1](https://www.formdev.com/flatlaf/)
+- [JSON20220320](https://mvnrepository.com/artifact/org.json/json/20140107)
